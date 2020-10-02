@@ -93,7 +93,7 @@ Flutter is Google’s mobile app SDK for crafting high-quality native interfaces
 * [Build Native Mobile Apps with Flutter by Google](https://in.udacity.com/course/build-native-mobile-apps-with-flutter--ud905) _[Free]_ 
 * [Learn Flutter & Dart to Build iOS & Android Apps](https://www.udemy.com/learn-flutter-dart-to-build-ios-android-apps/) _[Paid]_
 
-# React Native
+# React Native:-
 With React Native, you don't build a "mobile web app", an "HTML5 app", or a "hybrid app". You build a real mobile app that's indistinguishable from an app built using Objective-C or Java. React Native uses the same fundamental UI building blocks as regular iOS and Android apps. You just put those building blocks together using JavaScript and React.
 
 ## Resources
